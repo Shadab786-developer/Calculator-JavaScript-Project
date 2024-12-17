@@ -23,7 +23,9 @@ body {
   border: none;
   text-align: right;
 }
-
+.small {
+  font-size: 2rem;
+}
 .buttons {
   display: flex;
   flex-wrap: wrap;
